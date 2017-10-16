@@ -31,6 +31,6 @@ h2 {
 	font-size: 2em;
 }
 /* Write all remaining styles here */
-featured-image {
+#featured-image {
 	border: 5px rgb(152,173,166) solid;
 }
